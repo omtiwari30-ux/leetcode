@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/omtiwari30-ux/leetcode/tree/master/0007-reverse-integer) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/omtiwari30-ux/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
